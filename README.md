@@ -1,4 +1,4 @@
-# Shared-Preferences-AndroidStudio-
+# Shared Preferences
 In this project i covered the topic "Shared Preference" in Android Studio.
 
 
