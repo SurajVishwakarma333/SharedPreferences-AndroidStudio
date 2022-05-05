@@ -6,17 +6,7 @@ Shared Preferences is the way in which one can store and retrieve small amounts 
 
 
 
-
-
-
-
-
-                       https://user-images.githubusercontent.com/101108540/166883116-e84a268b-2ab4-461a-8dff-edc061efc37c.mp4
-
-
-
-
-
+ https://user-images.githubusercontent.com/101108540/166883116-e84a268b-2ab4-461a-8dff-edc061efc37c.mp4
 
 
 
