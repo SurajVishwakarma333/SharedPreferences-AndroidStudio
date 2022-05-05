@@ -1,5 +1,5 @@
 # Shared Preferences
-In this project i covered the topic "Shared Preference" in Android Studio.
+Shared Preferences is the way in which one can store and retrieve small amounts of primitive data as key/value pairs to a file on the device storage.
 
 
 
